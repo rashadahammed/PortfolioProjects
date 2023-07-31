@@ -17,3 +17,6 @@ Data for this project is collected from internet that is Nashville a city in USA
 3.Data visualization Project
 
 It is Data visualization of Covid-19 which effect globally.By using Tableau it is made a dashboard in which we can easily identify the statitics about Covid. It also give clear picture about the analysis of infection rate. It have table show Global Statitics of Covid,Percent Population Infected Global,Analysis of infection percentage,Income and Continent v/s Total Death.It can easily update in future when get more data.
+
+![Screenshot (312)](https://github.com/rashadahammed/PortfolioProjects/assets/112516181/57394375-4e06-4fe3-938b-6b46c90d652a)
+
