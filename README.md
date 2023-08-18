@@ -20,3 +20,14 @@ It is Data visualization of Covid-19 which effect globally.By using Tableau it i
 
 ![Screenshot (312)](https://github.com/rashadahammed/PortfolioProjects/assets/112516181/57394375-4e06-4fe3-938b-6b46c90d652a)
 
+
+4. Movies Correlation Project
+
+This project is clear POWER BI Project which help to visualization .Here the data
+
+
+
+5. Automatic File Sorting by Python
+
+It's a Python Project which help to Automatically Sorting of files based on their type(pdf, png, jpg, txt, etc..) Which help in data Analysis and file Analysis. It is done using Python and IDE is Jupiter NoteBook.
+
