@@ -54,4 +54,11 @@ It's a Python Project which help to Automatically Sorting of files based on thei
 
 6. PowerBI Dashboard To Proffesional Survey
 
-Here it is a goodlooking and more than easy to understandable dashboard made using POEWR BI which help to get insight about the sur
+Here it is a goodlooking and more than easy to understandable dashboard made using POEWR BI which help to get insight about the survey which done i  topic of proffesion of proffesional across the world. Data are collected in LinkedIn, Facebook , instagram etc.. Dashboard by POWERBI give clear idea about the important details get from survey.
+
+
+
+
+
+![Screenshot434](https://github.com/rashadahammed/PortfolioProjects/assets/112516181/6d64482a-7007-4db9-bb9e-83fb466c88b3)
+
