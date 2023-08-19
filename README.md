@@ -70,6 +70,3 @@ It is done by Python by Jupiter , Some python libraries like Pandas, Seaborn, Ma
 
 
 
-
-![Screenshot434](https://github.com/rashadahammed/PortfolioProjects/assets/112516181/6d64482a-7007-4db9-bb9e-83fb466c88b3)
-
