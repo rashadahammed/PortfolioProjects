@@ -56,6 +56,17 @@ It's a Python Project which help to Automatically Sorting of files based on thei
 
 Here it is a goodlooking and more than easy to understandable dashboard made using POEWR BI which help to get insight about the survey which done i  topic of proffesion of proffesional across the world. Data are collected in LinkedIn, Facebook , instagram etc.. Dashboard by POWERBI give clear idea about the important details get from survey.
 
+![Screenshot434](https://github.com/rashadahammed/PortfolioProjects/assets/112516181/6d64482a-7007-4db9-bb9e-83fb466c88b3)
+
+
+7. Crypto Website API  Automating Using Python
+
+In this project which is a advanced python project is done to Scrap a website and Automating the website API by python. Here it is take https://coinmarketcap.com website and data is extract from there. All Crypto and Crypto Currency datum are collected from this site to visualization of data and which help to easy understanding of how future of each crypto currency will be. 
+
+It is done by Python by Jupiter , Some python libraries like Pandas, Seaborn, Matploitlib and some DataFrame functions.
+    ![Screenshot (320)](https://github.com/rashadahammed/PortfolioProjects/assets/112516181/abf6374d-d92b-452c-ba83-34927d2c1c4d)
+
+
 
 
 
