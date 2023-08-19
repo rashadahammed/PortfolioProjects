@@ -39,7 +39,7 @@ This project is clear is python project which done in Jupiter Notebook, And here
 
 Here it is using Matploitlib, Python other libraries like Pandas, Seaborn
 
-
+![Screenshot (323)](https://github.com/rashadahammed/PortfolioProjects/assets/112516181/241478a7-365d-4bd5-bec3-820173cddcd2)
 
 
 
@@ -48,7 +48,7 @@ Here it is using Matploitlib, Python other libraries like Pandas, Seaborn
 It's a Python Project which help to Automatically Sorting of files based on their type(pdf, png, jpg, txt, etc..) Which help in data Analysis and file Analysis. It is done using Python and IDE is Jupiter NoteBook.
 
 
-
+![Screenshot (324)](https://github.com/rashadahammed/PortfolioProjects/assets/112516181/03385da5-e4f2-4c12-9443-3717af9a0d78)
 
 
 
