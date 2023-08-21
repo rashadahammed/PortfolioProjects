@@ -67,6 +67,16 @@ It is done by Python by Jupiter , Some python libraries like Pandas, Seaborn, Ma
     ![Screenshot (320)](https://github.com/rashadahammed/PortfolioProjects/assets/112516181/abf6374d-d92b-452c-ba83-34927d2c1c4d)
 
 
+8. Excel Bilke Sale Visualization Project
+
+It is clear Excel Pivot Table project which give easy understanding visualization of bike sales. Datum are collected from Kagle which help to easy and understandable data absraction. It is clearly visualized that sales of Bike vs Gender, Martial status, Income, Nation etc
+
+Here it is use Excel , Pivot Table and Chart.
+
+![Screenshot (327)](https://github.com/rashadahammed/PortfolioProjects/assets/112516181/ec563ee3-922c-403d-8213-0c8c2a25d283)
+
+
+
 
 
 
